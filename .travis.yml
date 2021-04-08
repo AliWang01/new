@@ -3,6 +3,7 @@ arch:
 
 env:
   - IMGNAME=bradmorg/ubuntu:dbot
+  - CODECOV_TOKEN='f5c5f6d6-c5bb-4bc2-a162-f7ee9f517b71'
 
 services:
   - docker
