@@ -1,8 +1,8 @@
 codecov:
-  token: "3f9f46af-7e33-48eb-afa3-a6ee04b32cbd"
+  token: f5c5f6d6-c5bb-4bc2-a162-f7ee9f517b71
   bot: "codecov-io"
   ci:
-    - "https://travis-ci.com/github/Allen0929/codecovSimple"
+    - "https://travis-ci.com/github/AliWang01/new"
   strict_yaml_branch: "yaml-config"
   max_report_age: 24
   disable_default_path_fixes: no
